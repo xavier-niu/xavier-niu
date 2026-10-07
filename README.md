@@ -19,11 +19,11 @@ Recent Activities👇
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      7 hrs 59 mins         █████████▒░░░░░░░░░░░░░░░   37.89 %
-Bash          2 hrs 59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Python        2 hrs 41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Rust          1 hr 47 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Other         1 hr 43 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Markdown          9 hrs 43 mins         ████████░░░░░░░░░░░░░░░░░   31.66 %
+Python            5 hrs 27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+Bash              4 hrs 15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
+Go                2 hrs 13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Other             2 hrs 4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
 ```
 
 <!--END_SECTION:waka-->
