@@ -19,11 +19,11 @@ Recent Activities👇
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          12 hrs 1 min          █████████░░░░░░░░░░░░░░░░   36.32 %
-Go                8 hrs                 ██████░░░░░░░░░░░░░░░░░░░   24.19 %
-TypeScript        4 hrs                 ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-JavaScript        1 hr 54 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Bash              1 hr 49 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Markdown          10 hrs 35 mins        ███████▒░░░░░░░░░░░░░░░░░   28.86 %
+Go                9 hrs 27 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
+TypeScript        8 hrs 34 mins         ██████░░░░░░░░░░░░░░░░░░░   23.34 %
+JavaScript        1 hr 45 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Bash              1 hr 34 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
